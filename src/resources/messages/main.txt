@@ -1,9 +1,0 @@
-Hello! This bot has a function of gpt
-
-Useful commands:
-
-1. /start - main menu
-2. /random - get random fact
-3. /gpt - ask a question
-4. /talk - talk to person
-5. /quiz - check your knowledges

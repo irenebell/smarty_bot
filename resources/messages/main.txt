@@ -1,0 +1,7 @@
+Hello! This bot uses the power of ChatGPT
+
+1. /start — bot main menu
+2. /random — get a random fact · 🧠
+3. /gpt — ask ChatGPT a question · 🤖
+4. /talk — chat with a famous personality · 👤
+5. /quiz — test your knowledge ❓
